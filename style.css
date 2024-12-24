@@ -30,7 +30,8 @@ h1, h2, h3 {
 /* Button */
 .btn {
   display: inline-block;
-  background-color: #0073e6;
+  /*background-color: #0073e6;*/
+  background-color: rgb(197, 31, 31);
   color: white;
   padding: 10px 20px;
   text-decoration: none;
